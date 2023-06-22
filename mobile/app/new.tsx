@@ -76,7 +76,7 @@ export default function  NewMemory() {
             <View className="flex-row items-center justify-between mt-4">
                 <NLWLogo />
 
-                <Link href="memories" asChild>
+                <Link href="/memories" asChild>
                     <TouchableOpacity className="h-10 w-10 items-center justify-center rounded-full bg-purple-500">
                         <Icon name="arrow-left" size={16} color="#FFF" />
                     </TouchableOpacity>

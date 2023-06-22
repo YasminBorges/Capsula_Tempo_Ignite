@@ -1,5 +1,3 @@
-
-
 import { NewMemoryForm } from "@/components/NewMemory";
 import { ChevronLeft } from "lucide-react";
 import Link from "next/link";
